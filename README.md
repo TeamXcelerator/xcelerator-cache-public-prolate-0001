@@ -16,10 +16,15 @@ Prolate spectra, bases, concentration data, and transfer candidates.
 
 Artifact kinds assigned to this family:
 
+- `prolate_eigenvalue_spectrum`
 - `ccm_prolate_spectrum`
 - `ccm_prolate_basis`
 - `ccm_prolate_candidate`
 - `ccm_band_concentration`
+
+This shard's routing metadata is synchronized with Xcelerator Toolkit v0.14.1.
+Listing a kind permits validated publication; it does not assert that an
+artifact of that kind is currently present.
 
 ## Layout
 
