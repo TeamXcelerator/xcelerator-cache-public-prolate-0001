@@ -48,3 +48,9 @@ The declared artifact kinds in `cache-repository.json` define this shard's
 admitted publication scope. Registration is additive: historical payloads and
 indexes retain their original meaning. Computed observations and externally
 reported material are not convergence or ground-state certificates.
+
+The extended v0.15.1 schemas also cover signed reference channels, weighted
+projections, compactness, arithmetic and directional energy, weighted tails,
+cluster comparisons, and conditional resolution/energy budgets where applicable
+to this family. The specific target formula remains an external input. Missing
+or unresolved measurements retain their status; old objects are not replaced.
