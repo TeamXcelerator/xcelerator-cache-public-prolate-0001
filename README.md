@@ -40,3 +40,11 @@ The Xcelerator cache registry is the authority for shard routing.
 ## Trademarks
 
 "Team Xcelerator Inc." is a registered trademark of Team Xcelerator Inc.
+
+## v0.15.1 research records
+
+Shared payload schemas for retained research observations are in `schemas/`.
+The declared artifact kinds in `cache-repository.json` define this shard's
+admitted publication scope. Registration is additive: historical payloads and
+indexes retain their original meaning. Computed observations and externally
+reported material are not convergence or ground-state certificates.
