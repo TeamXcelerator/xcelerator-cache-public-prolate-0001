@@ -54,3 +54,9 @@ projections, compactness, arithmetic and directional energy, weighted tails,
 cluster comparisons, and conditional resolution/energy budgets where applicable
 to this family. The specific target formula remains an external input. Missing
 or unresolved measurements retain their status; old objects are not replaced.
+
+Ultra v5 additionally retains complex transform samples, signed root transport,
+operator-cluster coupling, parent-derived finite sections, supplied tail-model
+solves and observable budgets where admitted by this catalog. The external input
+schema supports compact actions and explicit model/uncertainty provenance.
+Historical scientific payloads and indexes remain unchanged.
